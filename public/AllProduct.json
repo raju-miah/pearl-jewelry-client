@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Earings",
+        "image": "https://i.ibb.co/p1Mr3nF/images-2.jpg",
+        "price": 99,
+        "details": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "shippingAndReturns": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+    },
+    {
+        "name": "Rings",
+        "image": "https://i.ibb.co/JQZPDP5/images-10.jpg",
+        "price": 89,
+        "details": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "shippingAndReturns": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+    },
+    {
+        "name": "Neckless",
+        "image": "https://i.ibb.co/ft7ZV5R/images-5.png",
+        "price": 109,
+        "details": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "shippingAndReturns": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+    },
+    {
+        "name": "Bracelet",
+        "image": "https://i.ibb.co/sgHtW09/images-11.jpg",
+        "price": 56,
+        "details": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "shippingAndReturns": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+    },
+    {
+        "name": "Earings",
+        "image": "https://i.ibb.co/0F2Gztv/images-13.jpg",
+        "price": 56,
+        "details": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "shippingAndReturns": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+    },
+    {
+        "name": "Rings",
+        "image": "https://i.ibb.co/jWmkV8y/images-19.jpg",
+        "price": 56,
+        "details": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "shippingAndReturns": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+    },
+    {
+        "name": "Neckless",
+        "image": "https://i.ibb.co/XzBMtSs/images-21.jpg",
+        "price": 56,
+        "details": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "shippingAndReturns": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+    },
+    {
+        "name": "Bracelet",
+        "image": "https://i.ibb.co/1Rv0qky/images-22.jpg",
+        "price": 56,
+        "details": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "shippingAndReturns": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+    },
+    {
+        "name": "Earings",
+        "image": "https://i.ibb.co/qWdwGRz/images-23.jpg",
+        "price": 56,
+        "details": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "shippingAndReturns": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+    }
+    
+]

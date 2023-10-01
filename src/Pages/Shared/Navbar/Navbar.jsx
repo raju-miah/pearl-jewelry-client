@@ -34,8 +34,12 @@ const Navbar = () => {
 
                 <div>
                     <ul className='flex justify-center items-center gap-6 text-[24px] text-[#153462]'>
-                        <li>Home</li>
-                        <li>Product</li>
+                        <Link to='/'>
+                           <li>Home</li>
+                        </Link>
+                        <Link to='/products'>
+                           <li>Shop</li>
+                        </Link>
                         <li>Blog</li>
                         <li>About</li>
                         <li>Contact</li>
