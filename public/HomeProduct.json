@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Earings",
+        "image": "https://i.ibb.co/p1Mr3nF/images-2.jpg",
+        "price": 99
+    },
+    {
+        "name": "Rings",
+        "image": "https://i.ibb.co/JQZPDP5/images-10.jpg",
+        "price": 89
+    },
+    {
+        "name": "Neckless",
+        "image": "https://i.ibb.co/ft7ZV5R/images-5.png",
+        "price": 109
+    },
+    {
+        "name": "Bracelet",
+        "image": "https://i.ibb.co/sgHtW09/images-11.jpg",
+        "price": 56
+    }
+]
