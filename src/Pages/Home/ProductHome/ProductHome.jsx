@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import ProductHomeCard from './ProductHomeCard';
+import { Link } from 'react-router-dom';
 
 const ProductHome = () => {
 
@@ -34,7 +35,9 @@ const ProductHome = () => {
             </div>
 
             <div className='flex justify-center items-center'>
+                <Link to="/products">
                 <button className='border-[1px] uppercase cursor-pointer text-[#153462] border-solid border-[#a749ff] px-[90px] py-4 mt-[50px] hover:bg-[#a749ff] hover:text-white ease-in-out duration-500'>Shop More</button>
+                </Link>
             </div>
 
         </section>
