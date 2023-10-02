@@ -45,8 +45,11 @@ const Navbar = () => {
                         <Link to='/blog'>
                             <li>Blog</li>
                         </Link>
+
+                        <Link to='/about'>
+                            <li>About</li>
+                        </Link>
                         
-                        <li>About</li>
                         <li>Contact</li>
                     </ul>
                 </div>
