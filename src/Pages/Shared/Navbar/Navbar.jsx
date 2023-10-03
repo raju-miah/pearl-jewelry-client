@@ -59,17 +59,22 @@ const Navbar = () => {
 
                 <div>
                     <ul className='flex justify-center items-center gap-6 text-[24px] text-[#153462]'>
+                        <Link to='/blog-details'>
+                            <li>
+                                Blog Details
+                            </li>
+                        </Link>
                         <li>
                             <FaSearch />
-                        </li>
-                        <li>
-                            <FaCartShopping />
                         </li>
                         <Link to='/login'>
                             <li>
                                 <FaRegUser />
                             </li>
                         </Link>
+                        <li>
+                            <FaCartShopping />
+                        </li>
                     </ul>
                 </div>
             </div>
