@@ -8,7 +8,7 @@ const NewsLetter = () => {
                     <div className="pt-[150px]">
                         <h3 className="text-[70px] text-white italic">Want some news?</h3>
 
-                        <div className="max-w-[478px] flex justify-center border-b-[1px] border-indigo-500 mx-auto my-0 mt-[20px] p-[18px]">
+                        <div className="max-w-[478px] flex justify-center border-b-[1px] border-white mx-auto my-0 mt-[20px] p-[18px]">
                             <input
                             className="w-full text-white text-[22px] italic bg-transparent border-0 outline-none"
                             type="email" name="email" placeholder="Email"/>
