@@ -6,7 +6,7 @@ import { FaFacebook } from 'react-icons/fa6';
 
 const Login = () => {
   return (
-    <section className='pt-12 pb-12'>
+    <section className='pb-12'>
       <div>
         <h2 className="text-[60px] text-[#153462] italic text-center">Log in</h2>
       </div>
@@ -46,7 +46,7 @@ const Login = () => {
                </div>
 
                <p className='text-[22px] text-[#153462] pb-[15px]'>Don’t have an account?  
-                <Link className='underline pl-[5px]'>
+                <Link to='/register' className='underline pl-[5px]'>
                 Register Now
                 </Link>
                 </p>

@@ -1,58 +1,66 @@
 import { Link } from "react-router-dom";
+import arrowBtnImgRegister from '../../assets/arrow.svg';
 
 
 const Register = () => {
     return (
-    <div className="min-h-screen flex items-center justify-center">
-        <div className="bg-white p-8 rounded shadow-lg max-w-md w-full">
-          <h2 className="text-2xl font-bold mb-6">Create an Account</h2>
-          <form>
-                <div className="mb-4">
-                    <label className="block text-sm font-medium text-gray-600">
-                    Full Name</label>
-                    <input
-                        type="text"
-                        className="mt-1 p-2 w-full border rounded-md"
-                        placeholder="John Doe"
-                        required
-                    />
-                </div>
-                <div className="mb-4">
-                    <label className="block text-sm font-medium text-gray-600">
-                    Email Address</label>
-                    <input
-                        type="email"
-                        className="mt-1 p-2 w-full border rounded-md"
-                        placeholder="john@example.com"
-                        required
-                    />
-                </div>
-                <div className="mb-4">
-                    <label className="block text-sm font-medium text-gray-600">
-                    Password</label>
-                    <input
-                        type="password"
-                        className="mt-1 p-2 w-full border rounded-md"
-                        placeholder="********"
-                        required
-                    />
-                </div>
-                <button
-                    type="submit"
-                    className="w-full bg-indigo-600 text-white p-2 rounded hover:bg-indigo-700 focus:outline-none focus:border-indigo-700 focus:ring focus:ring-indigo-200"
-                    >
-                    Register
-                </button>
-          </form>
-
-            <div className="mt-4 text-center">
-                <span>Already have an account? </span>
-                <Link to="/login" className="text-indigo-600 hover:underline">
-                    Login here
-                </Link>
-            </div>
+        <section className='pb-12'>
+        <div>
+          <h2 className="text-[60px] text-[#153462] italic text-center">Register</h2>
         </div>
-    </div>
+  
+        <div>
+          <div 
+            className="max-w-[737px] flex flex-col mx-auto rounded-[40px]">
+  
+            <form className="py-[30px] px-[125px]">
+                <input
+                  className="w-full text-[#153462] text-[22px] bg-transparent border-0 border-b-[1px] border-[#153462] outline-none py-[15px]"
+                  type="name" name="name" placeholder="Name"/>
+  
+                <input
+                 className="w-full text-[#153462] text-[22px] bg-transparent border-0 border-b-[1px] border-[#153462] outline-none py-[15px]"
+                 type="email" name="email" placeholder="Email"/>
+
+                <input
+                 className="w-full text-[#153462] text-[22px] bg-transparent border-0 border-b-[1px] border-[#153462] outline-none py-[15px]"
+                 type="password" name="password" placeholder="Password"/>
+
+                <div>
+                    <label htmlFor='image' className='block my-2 text-[22px] text-[#153462]'>
+                        Select Image:
+                    </label>
+                    <input
+                        className="bg-[transparent] text-[#153462]"
+                        type='file'
+                        id='image'
+                        name='image'
+                        accept='image/*'
+                        required
+                    />
+                </div>
+  
+                  <div className='flex items-center gap-[20px] my-[30px]'>
+                    <input 
+                     className='text-[32px] text-[#153462] cursor-pointer'
+                     type="submit" value="Register" />
+  
+                     <span className='cursor-pointer'>
+                        <img
+                         src={arrowBtnImgRegister} alt="" />
+                     </span>
+                 </div>
+  
+                 <p className='text-[22px] text-[#153462] pb-[15px]'>Don’t have an account?  
+                  <Link to='/register' className='underline pl-[5px]'>
+                  Login Now
+                  </Link>
+                  </p>
+  
+            </form>
+          </div>
+        </div>
+      </section>
     );
 };
 
